@@ -1,7 +1,7 @@
 # Olá, sou Vítor Lougon! 👋
 
 ## Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em C# e JavaScript. Adoro criar soluções inovadoras e resolver problemas desafiadores.
+Sou um entusiasta da Tecnologia da Informação com experiência em desenvolvimento, atualmente trabalhando como Desenvolvedor na área de TI do Hospital Infantil Francisco de Assís.
 
 ## Experiência
 - **Desenvolvedor** no Hospital Infantil Francisco de Assís- Trabalhando em projetos fullstack de grande escala utilizando C#, .NET e EntityFramewok.
