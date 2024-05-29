@@ -2,13 +2,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vítor Lougon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LougonVitoro&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Developer and technology enthusiast
 
 - 🔭 I’m currently working at HIFA
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ Soon starting to post on [youtube.com/vitorlougon](https://www.youtube.com/channel/UCpI98vj89ms-2wireMR2QSA)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, .NET, REACT**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, .NET, ETC...**
 
 - ⚡ Fun fact **Oneye 😜**
 
