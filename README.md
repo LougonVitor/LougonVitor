@@ -1,6 +1,9 @@
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/LougonVitor/f7b145136c485b949977217df5e2a90a/raw/d3043eb109d59e15e2e7ad91c6c75fca695b4da7/githubcard.svg" />
 <!--<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vítor Lougon</h1>-->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vítor Lougon</h1>
+<p style="font-size: 100px;" align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, I'm Vítor Lougon</p>
+
+<hr />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LougonVitoro&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Developer and technology enthusiast
