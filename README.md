@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/LougonVitor/1344dfa25b99848989e7925ff33f8f04/raw/1608ce876b220fb02c5aaf9c2c413a96f67ac841/githubcard.svg" />
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/LougonVitor/f7b145136c485b949977217df5e2a90a/raw/d3043eb109d59e15e2e7ad91c6c75fca695b4da7/githubcard.svg" />
 <!--<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vítor Lougon</h1>-->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vítor Lougon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LougonVitoro&color=yellow" alt="Profile views" /> </p>
